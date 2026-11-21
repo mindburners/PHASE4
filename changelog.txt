@@ -1,1 +1,2 @@
+v1.1 - Name your sounds when you save them
 v1.0.25 - Initial release
